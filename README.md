@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>Indoor Plants</title>
-    <meta charset+="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Explore a variety of indoor plants for your home or office.">
 </head>
